@@ -1,6 +1,9 @@
 <?php
 
 /**
+ * LINEA DE COMENTARIO PARA MOSTRAR CAMBIOS EN GIT
+ * 
+ * 
  * Script de ejemplo para generar documentación con phpDocumentor.
  *
  * Este archivo contiene funciones matemáticas básicas con sus respectivas anotaciones de documentación.
